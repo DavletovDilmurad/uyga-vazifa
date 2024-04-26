@@ -1,0 +1,15 @@
+.rotate {
+  transform: rotateY(180deg);
+}
+.none {
+  display: none;
+}
+
+.none1 {
+  animation-duration: 700;
+  display: none;
+}
+.flex1 {
+  display: block;
+  transform: rotateY(-180deg);
+}
